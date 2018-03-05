@@ -1,0 +1,16 @@
+div{
+    padding: 15px;
+    border: 1px dotted blue;
+    width: 400px;
+    text-align: center;
+}
+div div{
+    border: 1px dashed;
+    border-color: red;
+    width: 365px;
+}
+div div div{
+    border: 1px solid;
+    border-color: green;
+    width: 335px;
+}

@@ -1,0 +1,19 @@
+div{
+    padding: 15px;
+    border: 0px outset lightgray;
+    background-color: lightgray;
+    width: 300px;
+    height: 250px;
+}
+label{
+    display: block;
+    margin: 5px;
+
+}
+input{
+    float: right;
+}
+select{
+    float: right;
+}
+
